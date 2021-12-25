@@ -82,7 +82,8 @@ def hero():
     numbers=[]
     while(y):
         clear()
-        banner='figlet IDFC Bcone|lolcat'
+        banner='figlet INTER'
+        banner='figlet NOKINE'
         system(banner)
         print("Contact me on telegram @IDFCMONEY")
         print("Enter ",newperiod," Bcone Price :")
@@ -114,7 +115,7 @@ def hero():
             y=False
         if (len(numbers)>11):
             clear()
-            system('figlet Thank You!!|lolcat')
+            system('figlet Thank You!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
@@ -249,7 +250,8 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==nextday):
             clear()
-            banner='figlet IDFC Pro|lolcat'
+            banner='figlet INTER'
+            banner='figlet NOKINE'
             system(banner)
             print("----------Your play time-----------")
             print("1st-30th Dec 2021, 02:30 PM- 03:00 PM")
